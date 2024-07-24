@@ -1,0 +1,14 @@
+console.log(typeof ("" + 1 + 0));
+console.log(typeof ("" - 1 + 0));
+console.log(typeof (true + false));
+console.log(typeof (6 / "3"));
+console.log(typeof ("2" * "3"));
+console.log(typeof (4 + 5 + "px"));
+console.log(typeof ("$" + 4 + 5));
+console.log(typeof ("4" - 2));
+console.log(typeof ("4px" - 2));
+console.log(typeof ("  -9  " + 5));
+console.log(typeof ("  -9  " - 5));
+console.log(typeof (null + 1));
+console.log(typeof (undefined + 1));
+console.log(typeof (" \t \n" - 2));
